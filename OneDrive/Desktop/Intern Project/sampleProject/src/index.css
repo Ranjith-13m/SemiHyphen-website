@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+/* *{
+  background-color:#040807 ;
+  font-family: sans-serif;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-image: url("./assets/magicpattern-polka-dot-pattern-1717773210770.png");
+  font-family: sans-serif;
+}
+
+#FAQ{
+  transition-duration: 4s;
+
+}
+  
